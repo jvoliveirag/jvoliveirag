@@ -13,7 +13,7 @@
 ##
 
 <h4>💬 Tenho 22 anos, estou no oitavo período de Engenharia de Software no <a href="https://inatel.br/home/">INATEL</a> e atualmente sou estagiário de desenvolvimento de sistemas para engenharia na Embraer!</h4>
-<h4>⚡ Sou apaixonado por Tecnologia, música e basquete!</h4>
+<h4>⚡ Sou apaixonado por tecnologia, música e basquete!</h4>
 
 ##
 
@@ -27,13 +27,11 @@
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"/>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
     <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
-    <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-    
+    <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
+    <img align="center" alt="Python" height="30" width="30" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png"/> 
 </div>
 
 ##
