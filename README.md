@@ -12,7 +12,7 @@
 
 ##
 
-<h4>💬 Tenho 22 anos, estou no oitavo período de Engenharia de Software no <a href="https://inatel.br/home/">INATEL</a> e atualmente sou estagiário de desenvolvimento de sistemas para engenharia na Embraer!</h4>
+<h4>💬 Tenho 22 anos e estou no oitavo período de Engenharia de Software no <a href="https://inatel.br/home/">INATEL</a>.</h4>
 <h4>⚡ Sou apaixonado por tecnologia, música e basquete!</h4>
 
 ##
