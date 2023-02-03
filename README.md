@@ -12,7 +12,7 @@
 
 ##
 
-<h4>💬 Tenho 22 anos e estou no oitavo período de Engenharia de Software no <a href="https://inatel.br/home/">INATEL</a>.</h4>
+<h4>💬 Tenho 22 anos e estou no 9º período de Engenharia de Software no <a href="https://inatel.br/home/">INATEL</a>.</h4>
 <h4>⚡ Sou apaixonado por tecnologia, música e basquete!</h4>
 
 ##
