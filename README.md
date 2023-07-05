@@ -1,42 +1,41 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<h3 tittle="Hello!">Hello world! 👋 </h3>
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+---
 
-- ⚡ Fun fact: ...
--->
+### About me:
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
 
-<h3 tittle="Olá!">Olá, meu nome é João Victor! 👋 </h3>
+  - Made in Brazil 📍🇧🇷
+  - Passionate about robotics, basketball and music; ⚡
+  - Software Engineering (Senior Year) - [Inatel](https://inatel.br/home/) 🖥️
+  - Learning more about Clean Code, SOLID and Patterns 📚
 
-##
+### Languages and tools:
 
-<h4>💬 Tenho 22 anos, estou no oitavo período de Engenharia de Software no <a href="https://inatel.br/home/">INATEL</a> e atualmente sou estagiário de desenvolvimento de sistemas para engenharia na Embraer!</h4>
-<h4>⚡ Sou apaixonado por tecnologia, música e basquete!</h4>
+<div style="display: inline_block" align="left">
+  <img align="center" alt="C++" title="C++" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"/>
+  <img align="center" alt="HTML" title="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" title="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="TypeScript" title="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img align="center" alt="NodeJS" title="NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
+  <img align="center" alt="ReactJS" title="ReactJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
+  <img align="center" alt="Python" title="Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
+  <img align="center" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" title="Jupyter" width="30" height="30">
+  <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="30" height="30">  
+  <img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/cypress.svg" alt="Cypress" title="Cypress" width="30" height="30">
+  <img align="center" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" title="MySql" width="30" height="30">
+  <img align="center" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="30" height="30">
+</div>
 
-##
+### Contact me!
+[![Badge](https://img.shields.io/static/v1?label=&message=João+Victor&color=informational&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaov-oliveira/)](https://www.linkedin.com/in/joaov-oliveira/)
+[![Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jv.oliveirag@gmail.com)](mailto:jv.oliveirag@gmail.com)
+
+---
 
 <div align="center" title="GitHub Stats">
   <a href="https://github.com/jvoliveirag">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jvoliveirag&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvoliveirag&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div style="display: inline_block" align="center" title="Tecnologias"><br>
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"/>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-    <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
-    <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
-    <img align="center" alt="Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/> 
-</div>
-
-##
-
-<div title="Contatos 📫">
-  <a href="https://www.linkedin.com/in/joaov-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jv.oliveirag@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
