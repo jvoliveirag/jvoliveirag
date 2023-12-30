@@ -7,7 +7,7 @@
 
   - Made in Brazil 📍🇧🇷
   - Passionate about robotics, basketball and music; ⚡
-  - Software Engineering (Senior Year) - [Inatel](https://inatel.br/home/) 🖥️
+  - Software Engineer - [Inatel](https://inatel.br/home/) 🖥️
   - Learning more about Clean Code, SOLID and Patterns 📚
 
 ### Languages and tools:
